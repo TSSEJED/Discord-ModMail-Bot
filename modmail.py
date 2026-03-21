@@ -21,9 +21,9 @@ STATE_FILE = os.path.join(DATA_DIR, "state.json")
 BLACKLIST_FILE = os.path.join(DATA_DIR, "blacklist.json")
 TRANSCRIPTS_DIR = os.path.join(DATA_DIR, "transcripts")
 
-MODMAIL_CATEGORY_NAME = "Valeria Modmail"
+MODMAIL_CATEGORY_NAME = "Cortex ModMail"
 LOG_CHANNEL_NAME = "modmail-logs"
-STAFF_ROLE_NAME = "[-]   Support Team"
+STAFF_ROLE_NAME = "Your_support_team_role"
 
 AUTO_SAVE_INTERVAL = 60  # Auto-save every 60 seconds
 BACKUP_INTERVAL = 3600   # Backup every hour
